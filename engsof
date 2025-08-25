@@ -1,0 +1,75 @@
+(O Que já foi visto)
+
+- Qual a  definição de engenharia de sofware.
+- Modelos de ciclo de vida e suas vantagens(Cascata, SCRUM)
+- Conceitos do Scrum como sprint, backlog entre outros
+- Além disso foram aprezentados a grandes marcas que Fazem a certificação de Nivel de maturidade de uma empresa
+
+??? Não foi muito bem relembrado quais são os agentes dentro das praticas ageis como PO e PM(VAi ser o papel da aula)
+
+
+(Incio do Conteudo da Aula)
+
+#Principios ageis
+Foi efetuado o manifesto para desenvolvimento ágil. Esse manifesto tinha alguns focos:
+- Individuos e interações 
+- Software em Funcionamento 
+- Colaboração com o Cliente 
+- Responder a Mudanças
+
+
+1.A maior prioridade é satisfazer o cliente através da entrega contínua.
+
+2. Mudanças nos requisitos são bem vindos. 
+
+3. Entrega frenquente de software funcionando(em pequnas partes)
+
+4. Pessoa de negocio e desenvovlimento devem trabalhar em conjunto durante o projeto
+
+5. Contrua projetos em torno de individuos motivados(não existe aquele supervisão constate em torno de prazo). Confia que o desevolvedor vai entregar oque prometeu(sendo realista)
+
+6. Cerimonias face a face
+
+7. Software fucionando é a medida primária de progresso
+
+8. Desenvolvimento em ritmo sustentavel
+
+
+9. Simplicdade, a arte de maxizar a quantidade de trabalho não relizado - é essencial
+
+10. Equipes auto organizadas
+
+(são no total 12 valores só que alguns deles achei desnecessários// menos importantes que os outros)
+
+
+#Visão Geral do Scrum
+
+##Papeis Dentro do SCRUM
+
+###PO
+Quem cuida do backlog é o PO(Product Owner). Uma pessoa que fica o tempo todo junta a equipe de desenvolviment, e tem que ter uma otima noção de como o negocio (do cliente) funciona. Ele é uma pessoa dedicada especificação de produto.
+
+###Scrum Master
+Ele definido como um lider servidor e ele é um facilitador de cerimonias(sejam reuniões ou dinamicas)
+
+
+##Cerimonias
+
+Revisão: Mostra o software e aprenseta tudo que o cliente tinyha pedido. Oque conseguiu ser feito e oque tinha sido pedido
+
+Retrospectiva: OQue deu certo e errado na forma que trabalhamos. Como podemos Melhorar?
+
+##Pilares do Scrum
+
+###Transparência
+Aspectos Significativos devem estar visíveis aos responsáveis pelos resultados.
+(Caso algo atrase ou tenha algum tipo de porblema é necessário ser transparente, pois evita a surpresa de algum atraso)
+
+###Inspeção
+Frequentemente inspecionar artefatos para detectar problemas
+
+###Adapatação
+Se algo não esta dando certo mude, ter flexibilidade para mudar de equipe para equipe
+
+
+ 
